@@ -32,13 +32,13 @@ module.exports = {
   },
 
   sendInfo: async function (message) {
-    const botName = "꧁ 𝓝𝓸𝓫𝓲𝓽𝓪 ☁️💬 ꧂";
-    const botFullName = "⚙️ 𝙽𝙾𝙱𝙸𝚃𝙰 𝙲𝙷𝙰𝚃 𝙱𝙾𝚃 ⚙️";
-    const authorName = "S A I M";
-    const authorFB = "Ew'r Saim";
-    const whatsapp = "📱 01729537588";
-    const telegram = "✈️ @saimx69x";
-    const mood = "💔 Sad";
+    const botName = "꧁ bot171☁️💬 ꧂";
+    const botFullName = "⚙️ APON  𝙲𝙷𝙰𝚃 𝙱𝙾𝚃 ⚙️";
+    const authorName = "APON";
+    const authorFB = "APON DICAPRIO";
+    const whatsapp = "📱 01765144711";
+    const telegram = "✈️ @apon1xt";
+    const mood = "normal";
     const status = "༆ Single ༆";
 
     const now = moment().tz('Asia/Dhaka');
