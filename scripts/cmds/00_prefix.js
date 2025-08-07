@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "prefix",
     version: "1.5",
-    author: "Ew'r Saim",
+    author: "APON",
     countDown: 5,
     role: 0,
     description: "Change the bot prefix in your chat box or globally (admin only)",
@@ -133,7 +133,7 @@ module.exports = {
 ➤ ⏰ Time: ${currentTime}
 ➤ ⏳ Uptime: ${uptime}
 ➤ 👤 Your ID: ${event.senderID}
-➤ ✍️ Dev: Ew'r Saim
+➤ ✍️ Dev: APON DICAPRIO 
 ➤➤➤➤➤➤➤➤➤➤➤➤➤`,
         attachment: await utils.getStreamFromURL("https://files.catbox.moe/27or5a.jpg")
       });
