@@ -57,22 +57,22 @@ module.exports = {
     const body = `
 ╭═════『 👑 OWNER INTRO 』═════╮
 │
-│ ✨ Full Name: Habibur Rahman Saim  
-│ ✨ Nickname: Saim  
-│ 🎂 Age: 17+  
-│ 🗓️ Date of Birth: 15 March 2008 
+│ ✨ Full Name: APON DICAPRIO  
+│ ✨ Nickname: APON  
+│ 🎂 Age: 00+  
+│ 🗓️ Date of Birth: 1 March 200# 
 │ 🚹 Gender: Male  
 │ ☪️ Religion: Islam  
 │ 🌍 Nationality: Bangladeshi  
-│ 📍 Current Address: Islampur, Dhaka  
-│ 🎓 Class: New 10  
+│ 📍 Current Address: lakshmipur, Bangladesh  
+│ 🎓 Class: secret  
 │ 💘 Relationship Status: Single  
-│ 📏 Height: 5'10"  
+│ 📏 Height: 5'**"  
 │ ⚫ Favorite Color: Black  
 │ 🎶 Favorite Song: "Mann Mera"  
-│ 🍥 Favorite Anime: Naruto  
-│ 🎮 Favorite Game: Free Fire  
-│ 🆔 Game UID: 5640444634  
+│ 🍥 Favorite Anime: idk  
+│ 🎮 Favorite Game: sex  
+│ 🆔 Game UID: ........  
 │
 ╰══════════════════════════════╯
 
