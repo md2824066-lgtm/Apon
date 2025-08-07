@@ -8,7 +8,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.17",
-    author: "S A I M",
+    author: "A P O N",
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -59,7 +59,7 @@ module.exports = {
       msg += "┍━━━[𝙸𝙽𝙵𝚁𝙾𝙼]━━━☹︎\n";
       msg += `┋➥𝚃𝙾𝚃𝙰𝙻𝙲𝙼𝙳: [${commands.size}]\n`;
       msg += `┋➥𝙿𝚁𝙴𝙵𝙸𝚇: ${prefix}\n`;
-      msg += `┋𝙾𝚆𝙽𝙴𝚁: Ew'r Saim\n`;
+      msg += `┋𝙾𝚆𝙽𝙴𝚁: APON DICAPRIO\n`;
       msg += "┕━━━━━━━━━━━━☹︎";
 
       const helpListImages = ["https://files.catbox.moe/9f7p0a.jpg"];
