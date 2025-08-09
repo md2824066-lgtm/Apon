@@ -32,7 +32,7 @@ module.exports = {
   },
 
   sendInfo: async function (message) {
-    const botName = "꧁ bot171☁️💬 ꧂";
+    const botName = "꧁ APONX1☁️💬 ꧂";
     const botFullName = "⚙️ APON  𝙲𝙷𝙰𝚃 𝙱𝙾𝚃 ⚙️";
     const authorName = "APON";
     const authorFB = "APON DICAPRIO";
@@ -79,7 +79,7 @@ module.exports = {
 │    and to stay when no one else does. ❞
 │
 │   𝗪𝗶𝘁𝗵 𝗹𝗼𝘃𝗲,  
-│   🤖 Nobita Chat Bot
+│   🤖 APON Chat Bot
 ╰──────────────────────────────╯
 `;
 
