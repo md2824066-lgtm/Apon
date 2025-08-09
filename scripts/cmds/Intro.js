@@ -6,7 +6,7 @@ module.exports = {
     name: "intro",
     aliases: ["inf", "in4"],
     version: "1.0",
-    author: "Saim",
+    author: "Apon",
     countDown: 5,
     role: 0,
     shortDescription: {
