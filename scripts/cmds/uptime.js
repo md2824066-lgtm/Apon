@@ -7,7 +7,7 @@ module.exports = {
     name: "uptime",
     aliases: ["up", "goatuptime"],
     version: "4.1",
-    author: "S A I M",
+    author: "A P O N",
     role: 0,
     shortDescription: {
       en: "GOAT-style uptime with image and signature"
@@ -40,7 +40,7 @@ module.exports = {
 💀 Downtime? NEVER HEARD OF IT.
 
 ───────────────
-✒️ 𝗢𝗪𝗡𝗘𝗥: 𝗦 𝗔 𝗜 𝗠
+✒️ 𝗢𝗪𝗡𝗘𝗥: A P O N
 ───────────────`;
 
     // Using the same image as help command
