@@ -62,7 +62,8 @@ module.exports = {
       msg += `┋𝙾𝚆𝙽𝙴𝚁: APON DICAPRIO\n`;
       msg += "┕━━━━━━━━━━━━☹︎";
 
-      const helpListImages = ["https://files.catbox.moe/9f7p0a.jpg"];
+      // তোমার ছবি direct লিঙ্ক
+      const helpListImages = ["https://i.imgur.com/aJQaijV.jpg"];
       const helpListImage = helpListImages[Math.floor(Math.random() * helpListImages.length)];
 
       await message.reply({
@@ -76,7 +77,7 @@ module.exports = {
       const command = commands.get(commandName) || commands.get(aliases.get(commandName));
 
       if (!command || !command?.config) {
-        await message.reply(`Sorry! Command "${commandName}" khuja jay nai.`);
+        await message.reply(`Sorry! Command "${commandName}" খুজে পাওয়া যায়নি।`);
       } else {
         const configCommand = command.config;
         const roleText = roleTextToString(configCommand.role);
@@ -128,4 +129,4 @@ function roleTextToString(roleText) {
     default:
       return "Unknown role";
   }
-    }
+}
